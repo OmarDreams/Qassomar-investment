@@ -1,5 +1,5 @@
 body{
-    background: url(img/GLOBAL-LOGISTICS.jpg)no-repeat;
+    background: url(img/mi.png)no-repeat;
     background-size: cover;
     lighting-color:hsl(217, 89%, 20%) ;
 }
@@ -344,26 +344,16 @@ li a:hover {
     }
   }
 
-  .text1 {
-    color: white;
-  }
-
-  .text2 {
-    color: black;
+  p {
+    color: blue;
   }
 
   .text1-padding {
     padding-bottom: 30px;
-    color: white;
-  }
-
-  span {
-    color: black;
   }
 
   .text1-padding2 {
     padding-bottom: 20px;
-    color: white;
   }
 
   .text1-padding3 {

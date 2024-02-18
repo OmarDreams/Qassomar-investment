@@ -77,6 +77,13 @@ body {
     font-size: 20px;
 }
 
+.info {
+    font-weight: 600px;
+}
+
+h2 {
+    color: rgb(18, 0, 100);
+}
 .user {
     width: 65%;
     padding: 15px;
@@ -146,4 +153,8 @@ span {
 }
 .Number-list {
     padding-left: 1px;
+}
+
+b {
+    color: red;
 }
