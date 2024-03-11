@@ -4,28 +4,24 @@
     padding-right: 110px;
     padding-left: 100px;
     font-size: 35px;
-    color: orangered;
-    background-color: rgb(170, 78, 78);
-    animation-name: mtendere;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-        
+    color: rgb(184, 244, 194);
+    background-color: rgb(50 70 80);  
     }
     
-    @keyframes mtendere {
-        0% {color: red;}
-        25% {color: yellow; }
-        50% {color: orangered;}
-        75% {color: blueviolet;}
-        100% {color: aqua;}
-        0% {background-color: rgb(170, 78, 78);}
-        25% {background-color: green;}
-        50% {background-color: lightgray;}
-        75% {background-color:#ffeaa7;}
-        100% {background-color: brown;}
-    
+    .one {
+      animation-name: Qassomar;
+      animation-duration: 4s;
+      animation-iteration-count: infinite;
   }
-
+  
+  @keyframes Qassomar{
+      0%{color: green;}
+      25%{color: chartreuse;}
+      50%{color: brown;}
+      75%{color: blueviolet;}
+      100%{color: gold;}
+  }
+    
   ul {
     list-style-type: none;
     margin: 0;
